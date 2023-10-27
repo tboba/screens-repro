@@ -1,7 +1,4 @@
-<center>
-<h1>react-native-screens</h1>
-<p>Repository for repros</p>
-</center>
+# react-native-screens | My repros
 
 Hi there! I'm using this repository to put the repros of the issues I've submitted on react-native-screens [repository](https://github.com/software-mansion/react-native-screens).
 
